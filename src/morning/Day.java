@@ -6,6 +6,8 @@ public class Day {
 
         Sun ok = new Sun();
         ok.sunny();
+        Sun okey = new Sun();
+        okey.sunnyAft();
 
     }
 }
