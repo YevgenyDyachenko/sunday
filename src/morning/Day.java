@@ -12,6 +12,8 @@ public class Day {
         klo.evening();
         Moon okko = new Moon();
         okko.rty();
+        Rain tre = new Rain();
+        tre.sail();
 
     }
 }
