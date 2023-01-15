@@ -8,6 +8,10 @@ public class Day {
         ok.sunny();
         Sun okey = new Sun();
         okey.sunnyAft();
+        Moon klo = new Moon();
+        klo.evening();
+        Moon okko = new Moon();
+        okko.rty();
 
     }
 }
